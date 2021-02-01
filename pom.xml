@@ -4,11 +4,11 @@
 
     <groupId>org.example</groupId>
     <artifactId>maven-learning</artifactId>
-    <version>1.2</version>
+    <version>1.3-SNAPSHOT</version>
 
     <scm>
         <developerConnection>scm:git:https://github.com/aswinsenniappan/maven-learning.git</developerConnection>
-      <tag>maven-learning-1.2</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <build>
